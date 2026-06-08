@@ -1,0 +1,6 @@
+{
+  "name": "VXL Logistics",
+  "description": "Premium modern logistics website for VXL Logistics (Reliable Transport, Nationwide Reach since 2001), featuring FTL, PTL, ODC transport, vehicle fleet, tracking capabilities, and an AI-powered inquiry chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
